@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 30px;
+    background-color: blueviolet;
+}
+p{
+    margin: 50px 0;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(30, 255, 0);
+}
+div{    
+    width: 60%;
+    margin: 0 auto;
+    background-color: rgb(144, 103, 255);
+    padding: 50px;
+    box-shadow: 0px 0px 25px 20px rgba(0, 0, 0, 0.356);
+}
+img{
+    width: 100%;
+}
+h2{
+    color: rgb(30, 255, 0);
+}
+ol{
+    color: rgb(30, 255, 0);
+}
